@@ -1,0 +1,1101 @@
+{
+  "fetched_at": "2026-04-08T11:49:47.739125",
+  "articles": [
+    {
+      "id": "93db0182c8534fc0d8d4b121e2f090f4",
+      "source": "벤처스퀘어",
+      "title": "번역 지연 70% 줄인 AI 통번역…엑스엘에이트, 컨퍼런스 솔루션 2.0 전면 개편",
+      "link": "https://www.venturesquare.net/1074682/",
+      "summary": "엑스엘에이트가 AI 동시 통번역 솔루션 '이벤트캣 컨퍼런스 2.0'을 출시했다. 컨퍼런스 단위 통합 대시보드, 50개 이상 언어 실시간 자막, 개인 기기 시청 등 운영 구조를 전면 개편하고, 자체 SiMT 엔진으로 번역 지연을 70% 줄였다.\nThe post 번역 지연 70% 줄인 AI 통번역…엑스엘에이트, 컨퍼런스 솔루션 2.0 전면 개편 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 01:46:16 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.196822"
+    },
+    {
+      "id": "4d0268a8d862738a68e5553f7a97fb38",
+      "source": "벤처스퀘어",
+      "title": "애드테크에서 SaaS로 체질 개선…인라이플, 매출 784억으로 역대 최대 실적",
+      "link": "https://www.venturesquare.net/1074674/",
+      "summary": "데이터 테크 기업 인라이플이 2025년 매출 784억 원, 영업이익 37억 원으로 역대 최대 실적을 기록했다. 전체 매출의 53.9%가 SaaS 부문에서 발생하며 애드테크에서 SaaS 전문 기업으로 체질 개선에 성공했고, 그룹사 이지랩은 출시 15개월 만에 DAU 31...\nThe post 애드테크에서 SaaS로 체질 개선…인라이플, 매출 784억으로 역대 최대 실적 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 01:38:04 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "SaaS"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.196937"
+    },
+    {
+      "id": "950f9a059d96cd70156e8c8499f21f77",
+      "source": "벤처스퀘어",
+      "title": "설립 2년 만에 ‘국가대표’로…메텔, 중기부 초격차 DIPS 콘텐츠 분야 선정",
+      "link": "https://www.venturesquare.net/1074665/",
+      "summary": "링크드인 기반 B2B 세일즈 솔루션 기업 메텔이 창업 2년 만에 중기부 초격차 DIPS 콘텐츠 분야에 선정됐다. 링크드인 특화 GEO 최적화 기술로 80여 기업의 20개국 해외 진출을 지원했으며, 3년간 최대 2억 원의 정부 지원을 받는다.\nThe post 설립 2년 만에 ‘국가대표’로…메텔, 중기부 초격차 DIPS 콘텐츠 분야 선정 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 01:18:00 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "B2B"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.197041"
+    },
+    {
+      "id": "6d1d4fb7c116cec80d06cf6c98b3bc8c",
+      "source": "벤처스퀘어",
+      "title": "채팅창에 ‘몬스터 세 마리 배치해’라고 하면 AI가 게임을 만든다…오버데어 스튜디오 에이전트 공개",
+      "link": "https://www.venturesquare.net/1074653/",
+      "summary": "크래프톤 자회사 오버데어가 OVERDARE Studio에 AI 에이전트 '스튜디오 에이전트'를 적용했다. 자연어로 지시하면 AI가 언리얼 엔진5 기반으로 Lua 스크립트를 자동 생성해 게임을 실시간 구현하며, 프로그래밍 지식 없이도 게임 제작이 가능하다.\nThe post 채팅창에 ‘몬스터 세 마리 배치해’라고 하면 AI가 게임을 만든다…오버데어 스튜디오 에이전트 공개 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 01:09:34 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.197148"
+    },
+    {
+      "id": "dbb2ff99774695399c9a0d49c65320e2",
+      "source": "벤처스퀘어",
+      "title": "고기 시세·추천·상품 분석을 대화로…미트박스, AI 챗봇 ‘AI.M’ 베타 오픈",
+      "link": "https://www.venturesquare.net/1074649/",
+      "summary": "미트박스가 AI 기반 챗봇 'AI.M'을 베타 오픈했다. 대화를 통해 축산물 시세 확인, 상품 비교, 거래명세서 분석 등을 지원하며, 식당·정육점 운영자의 의사결정을 돕는다. 향후 결제까지 통합형 AI 서비스로 확장할 계획이다.\nThe post 고기 시세·추천·상품 분석을 대화로…미트박스, AI 챗봇 ‘AI.M’ 베타 오픈 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 01:05:28 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.197251"
+    },
+    {
+      "id": "96d7b17a2a9e262768a3555096b9543b",
+      "source": "벤처스퀘어",
+      "title": "실제 해킹 사고 35건 분석해 학습…CertiK, AI 보안 감사 도구 ‘AI Auditor’ 출시",
+      "link": "https://www.venturesquare.net/1074625/",
+      "summary": "글로벌 Web3 보안 기업 CertiK가 AI 기반 감사 도구 'AI Auditor'를 출시했다. 2026년 실제 보안 사고 35건에서 취약점 88.6%를 탐지하고 오탐을 최소화했으며, 다단계 검증기 시스템으로 개발 워크플로우에 통합된 보안을 구현했다.\nThe post 실제 해킹 사고 35건 분석해 학습…CertiK, AI 보안 감사 도구 ‘AI Auditor’ 출시 appeared first on 벤처스퀘어.",
+      "published": "Wed, 08 Apr 2026 00:54:24 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.197551"
+    },
+    {
+      "id": "8aaf38accbfe02aca032401f861e8b35",
+      "source": "벤처스퀘어",
+      "title": "계좌번호 한 칸 오류도 용납 못 하는 금융권…한국딥러닝, 문서 AI로 수기 업무 대체",
+      "link": "https://www.venturesquare.net/1074337/",
+      "summary": "한국딥러닝이 금융권 문서 자동화에 특화한 '딥에이전트 for 금융'을 출시했다. 대출심사·피해구제·KYC 문서를 자동 분류하고 핵심값을 추출하며, 오류 위험 항목은 자동 검수 대상으로 분리해 금융 현업의 정밀도 요건을 충족한다.\nThe post 계좌번호 한 칸 오류도 용납 못 하는 금융권…한국딥러닝, 문서 AI로 수기 업무 대체 appeared first on 벤처스퀘어.",
+      "published": "Mon, 06 Apr 2026 23:21:31 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.198655"
+    },
+    {
+      "id": "94c028885b385ebceb7f6aae5b088856",
+      "source": "벤처스퀘어",
+      "title": "드론 고장 날 때 AI가 먼저 안다…위플로, 시리즈A 55억 유치하고 방산·공공 글로벌 진출",
+      "link": "https://www.venturesquare.net/1074316/",
+      "summary": "AI 기반 모빌리티 진단 솔루션 기업 위플로가 시리즈A 투자 55억 원을 유치해 누적 투자금 118억 원을 돌파했다. 방산혁신기업 100에 선정되고 폴란드 방산 기업과 협력하는 등 국방·공공 분야에서 기술을 검증하며 글로벌 진출을 준비한다.\nThe post 드론 고장 날 때 AI가 먼저 안다…위플로, 시리즈A 55억 유치하고 방산·공공 글로벌 진출 appeared first on 벤처스퀘어.",
+      "published": "Mon, 06 Apr 2026 22:48:08 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI",
+        "모빌리티"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.198957"
+    },
+    {
+      "id": "760273c2e2f047280c2ace0f8216f796",
+      "source": "벤처스퀘어",
+      "title": "당근·양배추로 비누를 만든 1인 기업…제주 ‘삼십육점오일도’가 창업 경진대회에서 수상한 이유",
+      "link": "https://www.venturesquare.net/1074300/",
+      "summary": "제주산 천연 작물로 친환경 비누·세정제를 제조하는 1인 장애인기업 '삼십육점오일도'가 장애인기업종합지원센터의 '현장CEO열전' 시즌2 4화에 소개됐다. 대표 박란희는 제19회 장애인 창업아이템 경진대회에서 장려상을 수상했다.\nThe post 당근·양배추로 비누를 만든 1인 기업…제주 ‘삼십육점오일도’가 창업 경진대회에서 수상한 이유 appeared first on 벤처스퀘어.",
+      "published": "Mon, 06 Apr 2026 22:43:34 +0000",
+      "matched_targets": [
+        "당근"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:33.199057"
+    },
+    {
+      "id": "32c38924977314e0ca317141fa628fe1",
+      "source": "벤처스퀘어",
+      "title": "프리랜서 매칭 실패율 급감…원포인트, 업무 요건부터 계약까지 AI로 뚫었다",
+      "link": "https://www.venturesquare.net/1074299/",
+      "summary": "원포인트가 프리랜서 마케터 매칭 과정 전반에 AI를 도입했다. 업무 요건 자동 생성, 프로필 비교, 제안서 분석까지 순차 적용한 결과 매칭 성공률 150% 증가, 소요 기간 40% 단축을 달성했다.\nThe post 프리랜서 매칭 실패율 급감…원포인트, 업무 요건부터 계약까지 AI로 뚫었다 appeared first on 벤처스퀘어.",
+      "published": "Mon, 06 Apr 2026 22:36:08 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.199155"
+    },
+    {
+      "id": "c4ed821dd772929cd23839ba08f7d619",
+      "source": "벤처스퀘어",
+      "title": "아보링고, 국내 50개 교육기관과 파트너십…수업 준비 시간 90% 줄이는 AI 교육 플랫폼",
+      "link": "https://www.venturesquare.net/1074189/",
+      "summary": "글로벌 에듀테크 기업 아보랩스가 에이전틱 AI 언어 학습 플랫폼 '아보링고'로 국내 50개 이상의 교육기관과 파트너십을 체결했다. 자체 개발한 ALA 기술로 교사의 수업 준비 시간을 90% 이상 줄이며, K-스타트업 그랜드 챌린지 1위 수상을 기반으로 일본·동남아 시장...\nThe post 아보링고, 국내 50개 교육기관과 파트너십…수업 준비 시간 90% 줄이는 AI 교육 플랫폼 appeared first on 벤처스퀘어.",
+      "published": "Mon, 06 Apr 2026 06:12:11 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:33.199509"
+    },
+    {
+      "id": "99b6fe021f68480da70d672c966c816f",
+      "source": "아웃스탠딩",
+      "title": "3000억 대출·805억 코인 손실, 빗썸 실적의 이면",
+      "link": "https://outstanding.kr/2025bithumb20260406/",
+      "summary": "매출 올랐지만, 순이익 반토막     “매출이 잘 나오면 자연스럽게 수익성도 개선될 것이라 생각합니다”   “2025년 IPO를 추진 중입니다.”   (빗썸 이재원 대표, 2025년 주주총회에서)   1년 전 이재원 빗썸 대표는 […]",
+      "published": "Tue, 07 Apr 2026 23:00:42 +0000",
+      "matched_targets": [],
+      "matched_macro": [
+        "IPO"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:34.694603"
+    },
+    {
+      "id": "4552fcc5ee0a37144893305fb33826f9",
+      "source": "아웃스탠딩",
+      "title": "대표님, 직원에게 사비로 보상해주지 마세요",
+      "link": "https://outstanding.kr/dontplz20260406/",
+      "summary": "얼마 전 스타트업씬에 흥미로운 뉴스 하나가 나왔습니다.   바로 토스의 운영업체이자 국내 최대 스타트업인 비바리퍼블리카의 이승건 창업자가 만우절 이벤트로 직원 10명을 추첨해 월세 및 대출이자 등 1년치 주거비를 사비로 지원한다는 […]",
+      "published": "Mon, 06 Apr 2026 06:31:23 +0000",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:34.695020"
+    },
+    {
+      "id": "8207f6b32f70b7e1595a7237d7fdb3e4",
+      "source": "아웃스탠딩",
+      "title": "AX의 성패는 솔직함이 좌우합니다",
+      "link": "https://outstanding.kr/ax20260406/",
+      "summary": "  *이 글은 외부 필자인 박태영님의 기고입니다.    AX는 AI를 이용해 기업의 생산성을 크게 높이는 활동입니다.   흔히 AI Tool 도입과 혼동되지만, 레이어가 다릅니다.   Tool은 사람의 작업을 보조합니다. 문서를 요약해 […]",
+      "published": "Sun, 05 Apr 2026 23:10:39 +0000",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:34.695144"
+    },
+    {
+      "id": "144d879da47a2f623c1672c79f654141",
+      "source": "Google News",
+      "title": "k채널/부산시, 아고다와 함께 글로벌 관광허브도시 부산을 알린다 - K채널",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CUC1WRkpuVFFVbS1JN1NWVU5aVlhEdlpZRF9VM3lNOUNBNHdvZjZYWlM1WUVaMFlsZnRVOVVmaXZYZFY3TnBWQVlOWU5LcFFSUXp2TXcxQ3o3TEpUamVQWnFXTnBoTW9SQ2c?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 12:13:16 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:36.296342"
+    },
+    {
+      "id": "e13d541334852781fe734f42d855b4b2",
+      "source": "Google News",
+      "title": "아고다코리아노조 출범 ‘글로벌 온라인 여행사 최초’ - 매일노동뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tX3VPMUxuZjRlc2p2T091TmJ3U29EWlEzc0JOMThlcm9oZ2hwbDI3QXJKUUk4M2ZqN2oyRjlBQUJjdEdySlJ4WW1raTNZdjAxcUowaWNSWGZOcnpEX09pOHhMODQwc1pNWDJEdERuc3Q?oc=5",
+      "summary": "",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:36.296377"
+    },
+    {
+      "id": "1a4e26c9378dd54f90c9acb7aafdf3fb",
+      "source": "Google News",
+      "title": "'글로벌 1위 아고다, 처우는 꼴찌?'… 노조 출범 - 세이프타임즈",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45V3ljbFYwMHhoVE5JTTNnZ3BVaWx0dkp2VzVmZnJzSmkzdElUTUFwNDExWUxRTktLZ25yVHBUbmxVN2dHNEV3cWNxc01NUGdXWkxfYjR3cGJUTmd4eFdIWWlCQmxVSXRpXzZOSFlpSdIBc0FVX3lxTE1CclZCNlhBd0ZZWG9mYUs5NnJkaXNPM3VmX1hibTVzTV8xaVNvTFJFX3ZMQTJfVUFVMlRLaVpxdkZvOUpnN0dTUEI5enJNUEV2LUZGRnV0aUI4bVhaLTd6cHZJcDViLWpaYnpSMS1QeWlvUVk?oc=5",
+      "summary": "",
+      "published": "Thu, 22 Jan 2026 08:00:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:36.296390"
+    },
+    {
+      "id": "c9b964e3c62bf7448e3aac1ac73f978b",
+      "source": "Google News",
+      "title": "\"아고다·트립닷컴, 한번 붙자\"…놀유니버스, 글로벌 OTA 도전장 - 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2TFM2Y0s0QUZOTk53TmdRT1llVmRkcDVFNXJTRXdITWdmZWtMU3BNTEpRT0htTGVyUkhoa0xxNDJLZlZ5RTJqdWc3RWpXQ3Z4UG01OXNaR19ZaW1UeDd6cw?oc=5",
+      "summary": "",
+      "published": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:36.296403"
+    },
+    {
+      "id": "d57c0c38ca1ec58cbc6e5afba5d5d105",
+      "source": "Google News",
+      "title": "아고다, 'BTS 효과' 확인…콘서트 개최지 여행 수요 증가세 뚜렷 - PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPdmFlQVdkbVJFQkhwdHAteGpteVFVSzdqdDhIT2huMEt3elRWTFhJeGd5WUM3aHRGeklVRWg1ZjI0bTBRRVhFODBqRk83cHJRSmRlbV9oLU1ucG9YVWQ4RW5LZ3BqMl9LUGdhMll0UHZ2WWY1QUhFSFJfRFlWaEhTaTd6Y3RXeEtoYzBZNmdrLUpwc1dkZEVnc2tPQzAxc1NnRjhtN0M3NEpTTFQydnVyYlVYMEJHTWJmT2tBakZlc09VTVVUd2IySVFWMUhReVJKd0czRk9SemRfanVub0s5eW5QYkRGc09qdDhJT0RmUmxydVJnUEhXSWFJSWl4NGFVbWpscXFmVHpkYlVNdmNCMW96bXgtbnJuLUVNNjJSenItaWhwX0E?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 00:05:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:37.111381"
+    },
+    {
+      "id": "98cf5234371e7f437fe8b755f17dac69",
+      "source": "Google News",
+      "title": "아고다, WWF와 손잡고 ‘착한 여행 생태계’ 만든다 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9Bc1BFSFJEemE5ZWpNTkRlVFdGcDF5WF82dFplV09FUUg5X3dTSUlIc1dVLXpycktja3dFZVgyQUhJVkxlcktrUjdCZWFadw?oc=5",
+      "summary": "",
+      "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:37.111402"
+    },
+    {
+      "id": "ecb0f00d7ec5b5b37af21c8b8fe59cdd",
+      "source": "Google News",
+      "title": "아고다 할인쿠폰 할인코드 호텔 항공권 예약 꿀팁 - 브런치",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxWGVDZXhnWWxIZWY4Zm0xSkYwSVNQLXlPZWlxRmtMNklvVElQRDBLS2tRTnJlWDFpTjluSXJNbzU3SlJQdWJONkh3?oc=5",
+      "summary": "",
+      "published": "Mon, 16 Feb 2026 08:00:00 GMT",
+      "matched_targets": [
+        "아고다"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:37.111418"
+    },
+    {
+      "id": "61eb9528f71306c3399700ac5fc939c2",
+      "source": "Google News",
+      "title": "[야놀자 리부트] 지주 대표에 투자전문가 선임…IPO 재시동 포석 깔았다 - dealsite.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11dWlJX09DUHExeGc3Sl8tb3ZyQXJvOXVfMGF1U0RqVThodm1LX3RVeFF2ZzBTcnRqUXUteEI0UXpQVTFrSUw5dXh4UEhXMFE?oc=5",
+      "summary": "",
+      "published": "Thu, 02 Apr 2026 00:00:18 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [
+        "IPO"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:38.570945"
+    },
+    {
+      "id": "f1b53279135bc79a9f93b12329ab10ea",
+      "source": "Google News",
+      "title": "야놀자, 핵심 수장 다 바꿨다...\"고객·기술·조직 중심 리더십 개편\" - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVclBJZUd2enRPc05taGl5eERUUlJSelZQQXVlamppREdJY0MtWnl6eTlUYXJWUmgyd3IxTVhOdjI0VWdteFdkWHNwMXZlVUwzS08yWkRB?oc=5",
+      "summary": "",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:38.570961"
+    },
+    {
+      "id": "d6ee8006ccc7683981121c5ac92d1178",
+      "source": "Google News",
+      "title": "조직 재정비한 야놀자, 美 상장 착수할까 - 디지털데일리",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92ZnpSX01udHU1UXFKbURic3hHWTgtamdXcGJkaDJ5RTAxMk1kbm9KSHV3QWRmVGVmU2FUSXRlMmk5cGFocGlvaVY1VmswMXZxNGxiRGk3NWhhUzdRZDJ2cTRn?oc=5",
+      "summary": "",
+      "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:38.570970"
+    },
+    {
+      "id": "46b9eaddaedfdc9496c8f7e7ced99b54",
+      "source": "Google News",
+      "title": "야놀자, '사업' '지원' 조직 분리 재편…글로벌·AI 공략 가속 - 아이뉴스24",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QQi1EeUNySENzc0t6aVJuR000S0Y5SFh6NWVzQ3k1b0lQVlBab3ZWMmNKSmludkJtU0gydGNDU3VqOGpBSTFDLTZFck8?oc=5",
+      "summary": "",
+      "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:38.570979"
+    },
+    {
+      "id": "4817c58861d7991945c953acca52c70e",
+      "source": "Google News",
+      "title": "'여행을 10배 더 쉽게 만들자' 야놀자, R&D 조직 '야놀자넥스트' 띄운다 - 테크M",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14XzlpNjhfOEFsS25aSWZsV1NpM2FsbW45bnNwRTYyVUZvd2xhRlhBREhkcThzT1BxbEI4M0ZTOHlNcUNoVVB1QkZjYzRJcWw1b3NORGZnMDV2UHBNbUZfYWJwRHBaZ9IBakFVX3lxTE5QR0w4QmJuVWtxV2pzQTBPNnB6S3VlMHNPeUFOdjEta05LQUFkNkw0cWdMb3dNQjdyOEdndTBaUWNMZ3F3Z1BUY180S2dWWnF1LWIwWFpUZVh2aEZjazVqdXNKdXY5aVhVNXc?oc=5",
+      "summary": "",
+      "published": "Mon, 22 Sep 2025 07:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:38.570989"
+    },
+    {
+      "id": "1a1bc9cc0f15b5da317550206c0969d7",
+      "source": "Google News",
+      "title": "‘야놀자’ 10조 몸값 고수, 스카이레이크의 투자 회수 전략은 - 뉴스톱",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51alp3UU5hVDVRM0FXeGlpVFBkazRERGF1cXI5aEF5VGRUd0hic1NrTk1mU1ZwbXBmMEZtaG9LQXhLV3FPZm9VYW1zeER0bXpOUWMxdXllY0NjNDdCbXJnTW1fbHZJNHYxX1E2UzZONA?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:39.305250"
+    },
+    {
+      "id": "357d4ee68aeaa7214461925dc145412e",
+      "source": "Google News",
+      "title": "[야놀자 리부트] IPO 기다리다 지친 투자자들…주주 세대교체 눈길 - dealsite.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqMGppQ1dqRFRZSGpVOFl4VWlOSUUzZ3lnUDlrWWZDSmhGTVBKTWFuazBheG9hMVhSdWlKczE3bGdZeHBhQzd2QnNBYThVVE0?oc=5",
+      "summary": "",
+      "published": "Wed, 01 Apr 2026 22:00:16 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [
+        "IPO"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:39.305268"
+    },
+    {
+      "id": "d5fe5664b578cef82c28c5110ec998ee",
+      "source": "Google News",
+      "title": "몸값 15조 고집하는 야놀자 창업주… 일년 넘게 진전 없는 나스닥 상장 - 조선비즈 - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc3UtcVpOTGNRb1JOSU5YOWJQZzFrNC1rWEtyR2FPYVgzM3JJamk0TVlWYlZZcU0yUGdzd3ZQbk1xMnNLUWlxYnp1Tk1HTmdja1FuNUw2dFNveHBpa1Zqdkp6d1pTRlZfT3Vna0dLN3ZKVXNfeThwVUY2eVY1T1pZNnNPbGZIc0XSAZsBQVVfeXFMTWRCX2pKLU55YURIbWdwb2sweFZOUEU0MW5UUVVYcGVJZ3Mzb2h6NDNOa05TbXN6R1lJUl9QYUc2bVZBT3pkUGhPdk44Y3lERUJVSjRiTUNYMWcwc2ttU1MwM2dqeGJxTW15TnRjUG9jMXlaOXJ6YV9UNlFKeGJOd2VnaDlJZktrM2dZT1FnRkV4T096dVdQNjI2Y3M?oc=5",
+      "summary": "",
+      "published": "Mon, 24 Nov 2025 08:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:39.305281"
+    },
+    {
+      "id": "7f0af404ca3c801c0b1406763a40abd6",
+      "source": "Google News",
+      "title": "아득해진 야놀자의 나스닥 꿈···수익성 장벽에 발목? - 시사저널e",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LcFYzSWRYbGlMbWxYVDdBR1JJTnJNZVNiMXdUamZPN1JZbHE1bkNvNk5oU0I4WWhiV2gwSmNaQ011dHdiUHd6bHd3NGxlOUZnbk1qeEpqc1ZOeDBENDdLN09DUzEydFNXSkdldnFXMGFEQdIBdkFVX3lxTE4yQk93a0NFdlpUZTFSZG1CUUJ2eG0wbS1ra05vNDk1NEwwVm92d1Q5RnNueS1jRU9HNDVUVUtyZHdKaDVmU3cwMktQX1hxRzR4Tk0zcVNhZkF6YzRVclgxMGltbUF3dHpBb2UwRWdsT1F2OHZxcFE?oc=5",
+      "summary": "",
+      "published": "Wed, 11 Feb 2026 08:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:39.305291"
+    },
+    {
+      "id": "c7b4adbcb09530543d7ac729019d276d",
+      "source": "Google News",
+      "title": "[기획] 야놀자, 김빠진 기업가치?…멀어지는 IPO - 더리브스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Yb0V0bUgyTkNNMnhUa1YyX01jcnh3SDhwaUdUUjRQMHpNTjVtT0ZWRUluQjN0bGxhem41dXBKUmxZNE16OUhWRG1oa2JzdXIwemRQQlFWQ3d4UjZNdWQxVmV1Ny1mODBLb0E?oc=5",
+      "summary": "",
+      "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+      "matched_targets": [
+        "야놀자"
+      ],
+      "matched_macro": [
+        "IPO"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:39.305301"
+    },
+    {
+      "id": "585738a7dc41eb54398738a23afe9737",
+      "source": "Google News",
+      "title": "[Tomorrow is decacorn] [캐치테이블] 대규모 채용‧C레벨 체제 개편…요식업 플랫폼 구축 - 경남대학교 대표",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tVy1JSGZ1dVptQUszakxtTjVkcWxqZ2NqRVMyMUJiRkttcGZTWUZaeTkzZFlNdFU0SzhxbUJ5WXMyUWxfdkJ1bGNTMnlBTUo1UWN1RUo0Mjhic21SU0NJSVBJOWg5cXhRUlc1MU96NA?oc=5",
+      "summary": "",
+      "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:40.042564"
+    },
+    {
+      "id": "622162d8e5ff3a99d9e82703bfecc231",
+      "source": "Google News",
+      "title": "[리테일 테크] “캐치테이블, AI로 외식 혁신…매장 추천·웨이팅 예측 강화한다” - 디지틀조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbml0V2hXMUdpOGhsaWVVaTFwVFkxZnZZZzM0N19SX0QwUE9VWWRlLXhUbnd2cXVzcWpBVGhYTDNIZ1hGTFN3cUxQM3FrVnFZRUpxMjZpNFM4MUQzRklfRVFueEVuVDhjemNSTlJTMEY0dHdPLUNYWDc4YmZiN1otT1RGYV8wTFHSAXtBVV95cUxQeS1oUFUzM1ZySndGR3lxVjVPZ0J4OW1TN1FDQ0EyZkI3Y0hrQk1OTWo4QTMxblRvWFU5cEZHRy1EOVNtVDF2ekViQ2EyNi1qcXJsZEpMV1p2Ymp6MnRQd1R2NUs4UWM1WW03T3l0ektGcVlwcWxrRzl4X0U?oc=5",
+      "summary": "",
+      "published": "Thu, 18 Sep 2025 07:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:40.042603"
+    },
+    {
+      "id": "890fb10f61b133a78c988c16abadf40e",
+      "source": "Google News",
+      "title": "캐치테이블, 권재홍 전 우아한형제들 COO 영입…요식업 슈퍼플랫폼 도약 가속화 - 플래텀(Platum)",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iYWt5emQ1NWFvV1EweWVPVXB4RHJpQ3BHZnpOSTVXbVFPRXllb2dlNHYzTjZaT01Vel9yb0pXb21jWFF2b2RIVA?oc=5",
+      "summary": "",
+      "published": "Tue, 29 Apr 2025 04:48:10 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:40.042616"
+    },
+    {
+      "id": "533b061fb725eed6df507bee4e00b63b",
+      "source": "Google News",
+      "title": "'실적 벽'에 갇힌 외식 기반 플랫폼…IPO·M&A 모두 첩첩산중 - 인베스트조선",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX3V6Y0s5VEJSWUZLMG84cWJ5dUNHUlYzcDRoMXRXaEdsNTYxTjJEbUNPLTZ5OW02VHhNTE1KQzk2SW92T0N5NVZJYjZ1MzZhRlJGMWVhQWhRQ0ZOeDlORE03bVJyMGFUc1F5ZjJId1h6MThvMWdlMUZhN2k3ZC02YzVHQQ?oc=5",
+      "summary": "",
+      "published": "Fri, 06 Feb 2026 08:00:00 GMT",
+      "matched_targets": [],
+      "matched_macro": [
+        "M&A",
+        "IPO"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:41.254962"
+    },
+    {
+      "id": "dd0b5645111b64e9276250681c41e35b",
+      "source": "Google News",
+      "title": "올해 웨이팅 가장 긴 '핫플' 어디?…캐치테이블, 미식 연말 결산 공개 - 유니콘팩토리",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUR1hrc21UMXZLczFHUmJpRXhyenVFc0hydUFHVFhiOGtmN0cwM0RIY3FDdDVpUUNGdnhRc2llYWpDNjlsMU5ydWNXNmZoM0JZemRJZ2VNTlRSdDlkUzk4UTN5T2pyOTFJNjE1bg?oc=5",
+      "summary": "",
+      "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [
+        "유니콘"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:41.254979"
+    },
+    {
+      "id": "2d823024eac1d26ff2aa832d03074429",
+      "source": "Google News",
+      "title": "빗썸 ‘캐치테이블’과 미식 제휴 이벤트 - busan.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5POWFuVk9vQTRLUmptZUpzU1AyNmFvYkg5d3NMTU82dXMwSmh4TUNSZHpDUm1PM0dBRmtHNDBhT1pYNDJoN3ZWZXZyLTFBeFRjNnBHZDlhZFNrSk1SZHp0aTdGYWxLek9pdTM3ZHBvOW5SZC1Q?oc=5",
+      "summary": "",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:41.254989"
+    },
+    {
+      "id": "a04e7487f9b4dc9825c64d0550b7de08",
+      "source": "Google News",
+      "title": "빗썸, '캐치테이블'과 비트코인 쿠폰 지급 이벤트…“최대 1000만원 상당” - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DNWVyVDVkcFdQZVdlM21hb19QODFMUVZ5c2JMb1VhN19wbUMtT2VOQ25zV2xNd1JjbEdZNGNzTUlSSy1UNkE4QkQ1OWFHUQ?oc=5",
+      "summary": "",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:41.254999"
+    },
+    {
+      "id": "07dbf2c170a409b1e3e2a66b1e3accca",
+      "source": "Google News",
+      "title": "빗썸, ‘캐치테이블’과 최대 1천만원 상당 비트코인 행운쿠폰 이벤트 진행 - 블록체인투데이",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tbHY5Zm02YldpSzI0NEtCbUl5eU5HR2FZbU1RMW5oZGtVSFpILU9mZVJ3VWF3Uk51b3JKN2NhTXJYbGctQmh0TGhaZlg3X2xiRk5fS2RNam9pRXRrRUNBdjJSVjhIeS1kYVRLUzhjRUk4ZHFmenc?oc=5",
+      "summary": "",
+      "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+      "matched_targets": [
+        "캐치테이블"
+      ],
+      "matched_macro": [],
+      "matched_cross": [
+        "블록체인"
+      ],
+      "fetched_at": "2026-04-08T11:49:41.255008"
+    },
+    {
+      "id": "f1ede77d992bcc0d31a3d04d8a65ec11",
+      "source": "Google News",
+      "title": "배민, 역대 최대 규모 2025 배민파트너페스타 개최… AI 기술 투자 아끼지 않을 것 - 플래텀(Platum)",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBHd1p5WE5vbXRjOGpkOTBqWVh4ZTBOOVBZS2dZeFBOQXlzdHRna0N5S3kxR0pKNnFHUkswMENaY0xRaDB0ZVlodQ?oc=5",
+      "summary": "",
+      "published": "Mon, 08 Dec 2025 02:54:41 GMT",
+      "matched_targets": [],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:42.689875"
+    },
+    {
+      "id": "82d1d08b7fa174a7333923bb0e49b234",
+      "source": "Google News",
+      "title": "배민, 스타트업 지원사업 '시동' - 유니콘팩토리",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80clllaU1HLTZQWkY4OU9GdkRNTUxRY05uZi1nbmZ3MGZ0amNQMk1pV0JLcFc2YU1YVjd5UGdpMldPM04zdTBxWFZ5TGJJV1ZscldBMXVpY29TcUx4ZEVTOTl2UkJiZ3BUdE5tbQ?oc=5",
+      "summary": "",
+      "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+      "matched_targets": [],
+      "matched_macro": [
+        "유니콘"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:42.689889"
+    },
+    {
+      "id": "335e05988b32374cbdae020422db01e2",
+      "source": "Google News",
+      "title": "2026 토스플레이스 Server Developer 대규모채용 - 토스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BUWhORjFLa2hYQXhtN0huMjBJWGlGYVJYeHRlVHZCWWdERlZFTWJtN2wtbmx0SlY5UDFuRGhSM0t1NGU1WlcySElJbGVZcEZpb2lxVzdMcVVVanF3Z0EyNg?oc=5",
+      "summary": "",
+      "published": "Wed, 01 Apr 2026 13:49:17 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:43.446829"
+    },
+    {
+      "id": "799d5e4527be4e828417f54417736e71",
+      "source": "Google News",
+      "title": "'3억 과태료' 토스뱅크, 자금세탁방지팀 강화한다 - 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SOWtPcFNpTzRVVkZ2SEdpQ3VBZlV6dl9BX2lLTUdRTEtzcE85dlI2SjdTVzNqOXB3ekZhUXVLbWRiUV92ajlMUHdoWGEtci1vNVl2dWljR3M1a0h1OGdDQmc0YU52c1c3VmsyVjUwc2pkd1k?oc=5",
+      "summary": "",
+      "published": "Tue, 07 Apr 2026 07:58:42 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:43.446846"
+    },
+    {
+      "id": "c87299d5b82f6110ba59e8389e7beb5b",
+      "source": "Google News",
+      "title": "금감원 지적에 토스·카카오페이증권, IT 리스크 점검 개편 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rajQ2aDUzZFlOSmt5Ykd1WFFNTHRBMWc2eVJ6V1BRQnBKc1NNeUQ4YVlyelN5RTFWcTNvaUNITk1NZmcyOFY0UVRfTlpPc2c?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 03:02:37 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [
+        "감원"
+      ],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:43.446856"
+    },
+    {
+      "id": "b49901ebf90d5e8f45e1569d0e58a222",
+      "source": "Google News",
+      "title": "토스증권, 역대 최대 규모 '세자릿수' 경력직 채용…전 직군 영입 - 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4NGZZOXRRUnBRRkFHUmJPdnhBX3dSOF9XSnpqdk0za2hrYWxZaDl5VnpXZVc1UzhuQ1pkWkxPMmJMRWRWZXRUVkkyN1RGNlZISWFYckI2OVMzdVVmYV8zOThJS2Z1b1VlUmU4djdfVFHSAXRBVV95cUxQU0k1R0pfamIzcHFWY2V3OWpZV1ZvN29Jc1VtUVBkei03RnJnUGJuR3FRYTN6dGRHbUhERG1CWHNpNzZOMXNRWkxtRjJNV0dnLTZwT0JSMHlIYmZXcDVaTVYzZDh2Uzktckl6X1pwdTVra0RFNg?oc=5",
+      "summary": "",
+      "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:43.446866"
+    },
+    {
+      "id": "fbd6062fb2caf3cd4dbff0970961a221",
+      "source": "Google News",
+      "title": "토스뱅크, 전 직군 대규모 채용 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91ZTNpTHNzTHF5amdjUUpHbDNIeEFiTFk0WHI4dVgxUzRWVDFEemg5Z1QwbmhkSmkxS2dhWUowaDhzWE9fc2Q1Q3FjQTlCdw?oc=5",
+      "summary": "",
+      "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:43.446874"
+    },
+    {
+      "id": "5a1f300e27a4dd36d2bbd700da4e6104",
+      "source": "Google News",
+      "title": "[단독] 일주일 만에 또 전산 장애...토스 위탁 계좌 조회 오류 - 파이낸셜포스트",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9welhQaG00SWgzdmhwandvS1VNcDV3M3pObmQzNV9wdTQwcjJwMGMtc1pXUXczaVlxLV85cVFMaXFkbVA4aXl2R0dVeXA5SnVQaG5rd294YmtwQXVKR2JVaVJ0dG9lT1dfQ1NiRTZ0Y1hreVBw?oc=5",
+      "summary": "",
+      "published": "Wed, 08 Apr 2026 02:23:00 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:44.292894"
+    },
+    {
+      "id": "cbac0d87255724371505a988af248cb8",
+      "source": "Google News",
+      "title": "체구는 10분의 1인데…토스증권, 작년 업계 9위 '깜짝' 순익 - yna.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PTW1CY1pKS0lHNllRZVdELVBPQTdvQUZuazFWWjlTM2pxb284WWh6MEhPNUE0cV8tTl9vdEZDTEgyZXZXUUljV05GcG93WjRkRTlKNk1WTE5YV3fSAWBBVV95cUxPQjlLSXN6TzJJQ3IwV2RUdjZ2UGFycmJlbE5ENEVsS2RjT09SaXVfQ0tHWEJ6cGpRTXhUTHg1aUhpcVRYQ1JDYWF4aGV0QnkyMzJXNFlhNjhNWklCSHVpNWQ?oc=5",
+      "summary": "",
+      "published": "Sat, 04 Apr 2026 22:20:01 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:44.292913"
+    },
+    {
+      "id": "98b7aeddcd040f395af5d538e4957619",
+      "source": "Google News",
+      "title": "미국 현지에서 찾은 투자 힌트: 토스증권의 탐방 리포트 출간 - 토스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53aW1YYjd1ei1RTVQ2bWpIbGtLakFDWWF2NldCbW82VllPWTlHNC1CZzJlVDBVR1BwbHB2WFJCU3FkYWU0bmc0YUxCUU5DeW5MbUNuRVl6aG4tUHl2VHVacFNvRV9sRE0ycFE?oc=5",
+      "summary": "",
+      "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:44.292922"
+    },
+    {
+      "id": "58fbd38fed9556a7e7d9ab64ba5ede18",
+      "source": "Google News",
+      "title": "NH투자증권, ‘금 모으기’ 서비스 출시…토스뱅크와 제휴 - 한경매거진&북",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SMm9uZWVQZE94TG40ZWg3ODhqSXM4bWRKWGZyYkNBc1Z5NVNmT0dCaE5MQS1tVFI1TllZYjIwWXZiLXktdkNhSjlBM0FzTmlabi1NVzBKSm84YjlUckJHaUthWVpXUFZW?oc=5",
+      "summary": "",
+      "published": "Thu, 02 Apr 2026 02:45:00 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:44.292931"
+    },
+    {
+      "id": "3d63e73674235a1ed0f1211e6824bc05",
+      "source": "Google News",
+      "title": "[은행권 풍향계] 불안할수록 안전자산 찾는다…토스뱅크서도 금 투자 外 - 에너지경제신문",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5OSElPUEFJMEFjd2YxbV9MSl9IZm5jTVR6SVBjcXRrQVlPUzFQSlBtb2tEa0diVzlGbS1pVFRMYUIwb3JBbEtFSHlXdFE4T2pxU2Z2anRjbmk4LVk?oc=5",
+      "summary": "",
+      "published": "Thu, 02 Apr 2026 09:20:51 GMT",
+      "matched_targets": [
+        "토스"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:44.292939"
+    },
+    {
+      "id": "e99f0e436122872409efe3d067aa869b",
+      "source": "Google News",
+      "title": "무신사, 두 자릿수 규모 '뷰티 특별 채용' 실시 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE43OFJkSzJjOEdWUlJKZkZ0bTVaZFB4NE1ndlFLMW9OMGxJNUlNUTNBMzZOejh3dTRJdWdGeW5hVWFvdXltZVNpUFA5NHA1UQ?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 01:21:56 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.045372"
+    },
+    {
+      "id": "7711fc05685066658a537770cdc8a8f4",
+      "source": "Google News",
+      "title": "\"뷰티 사업 더 키운다\" 무신사, 전문 인력 두 자릿수 특별 채용 - newsis.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wZFlYbHRMczRKQVJVcUYyWXBJRE5WVEtOa1BxclRRMVpXMDlyd1JoOVJEdUVtclRnS1NNZmVCV2ZwV1hBUk5HR1VaYmpac1lESGlrQWhPb01Bb1d2b191MUZYb2NYenpEaUs0dEQ5Z25nWlVFZUwybdIBeEFVX3lxTE0wZFlYbHRMczRKQVJVcUYyWXBJRE5WVEtOa1BxclRRMVpXMDlyd1JoOVJEdUVtclRnS1NNZmVCV2ZwV1hBUk5HR1VaYmpac1lESGlrQWhPb01Bb1d2b191MUZYb2NYenpEaUs0dEQ5Z25nWlVFZUwybQ?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 00:52:36 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.045388"
+    },
+    {
+      "id": "0a5cd3fa0997a5d3e64aeef928e1c2fb",
+      "source": "Google News",
+      "title": "무신사, 두 자릿수 규모 '뷰티 특별 채용' 실시 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBMWmtHNUpmdms3TzczOUM5N19obXk4VVUyaUp6MHFOVi1DMGpJMWcyZVVXOTZQN3oyZ2w5bm9GUjRCUVRzOWdTejBhLWtGeWc?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 00:07:27 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.045397"
+    },
+    {
+      "id": "89c196978562cd2030e9b9680f2ea8c4",
+      "source": "Google News",
+      "title": "무신사, 뷰티 사업 확대 맞춰 두 자릿수 특별채용 - yna.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pa2lMVDFEY0lPMzFNRjFJNjROczBiandObllBUkQ2cG9tam01bVhkeEJHYjU5RW83WEk0aGlPMG54NFpmS1I2cGZHSEFNVHFwYUNHaVlaamgtdjDSAWBBVV95cUxQb0MyQVdIcTFUMndxR0RSdFpFMkV6a0hYWkFkekwyTWY0M3I4MDE0LWhVemhlbHdqVzNpcUhoQnROZU9wakZBeXRBd3FkVjNnOU9KeFM2Sl9MZWV3dWFIZVg?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 00:01:15 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.045407"
+    },
+    {
+      "id": "a43969ac3e1931fa59f4cce739c08eb5",
+      "source": "Google News",
+      "title": "무신사, 뷰티 사업 확대 나선다…전문 인력 특별 채용 - 주간한국",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tNGNWWUI5b1BjQnB2VkJGVzJST25HZTk2S2Jha0I5T2IxcFVvZzhfNjJNeldqLU5GQUgzenJiRGJhX2FTQ0U5dUZ3Sm0tZW42THB0WVRSUXlrdW1FQUNqeV9qeDlKWENpWi1CTXZjRWtrd3NY0gF0QVVfeXFMT200Y1ZZQjlvUGNCcHZWQkZXMlJPbkdlOTZLYmFrQjlPYjFwVW9nOF82Mk16V2otTkZBSDN6cmJEYmFfYVNDRTl1RndKbS1lbjZMcHRZVFJReWt1bUVBQ2p5X2p4OUpYQ2laLUJNdmNFa2t3c1g?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 19:15:01 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.045416"
+    },
+    {
+      "id": "8238a19059e55cceeb4f99e7ea16b90d",
+      "source": "Google News",
+      "title": "무신사, 본업 성장했지만…순이익 깎은 '성수 부지 매각' - 톱데일리",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KQV9JbWQxODB4aFNCS3VLVTY2aEZkU3k1Mk1qUGhKWEFYX1JZWEZReVJ0ZHlUN19SOUFDOVZlTGpuYnY4YWEwa2VsMzByanM?oc=5",
+      "summary": "",
+      "published": "Tue, 07 Apr 2026 06:37:00 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.812870"
+    },
+    {
+      "id": "12402f316e08dc8d77335302153fa64a",
+      "source": "Google News",
+      "title": "무신사, 두 자릿수 규모 '경력직 특별 채용'…뷰티 사업 확장 - v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8wU3dnLUZmeVJySlI1Zl9VZ01LMEwyTm9GU05LQW1nNnZsZHNPcG5kOUxBWndDS1YzUy0yOWZyT1B6cnNGTnc?oc=5",
+      "summary": "",
+      "published": "Thu, 02 Apr 2026 23:27:44 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.812885"
+    },
+    {
+      "id": "7d912757fcea97f448f9cfaa1a2a23c1",
+      "source": "Google News",
+      "title": "무신사, 카카오와 손잡고 카카오톡 내 AI 서비스 오픈··· “대화형 패션 커머스 시대 연다” - 무신사 뉴스룸",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYdUZHV1RTSHcyMlU5NVl6cWFkOFZiWHh4WGIydHdEWmh3aDg1YUJzNWR4M3NnelJZQ05ZS3NSUkVYXzRNaF84U2dOTjFKLThGRGNfbWRQZVQ1STg1V1J2OEFR?oc=5",
+      "summary": "",
+      "published": "Tue, 24 Mar 2026 04:23:01 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:45.812896"
+    },
+    {
+      "id": "ba0cde940e9c320af6bd1f6f8e932335",
+      "source": "Google News",
+      "title": "무신사, 국제표준 정보보호 인증 ‘ISO 27001’ 획득 …글로벌 보안 공신력 확보 - 뷰어스",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ld0otb2VYMlBSdVlVWXB2SERTbjVPVkNhS1A1aVpQTVRhT2FBa0pHTjNNaEdvZGc1dTBkMjNuVHV3VjlQZ0xILXJxUElrdjc5QkFkT1VFbUo?oc=5",
+      "summary": "",
+      "published": "Sun, 05 Apr 2026 23:53:32 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.812904"
+    },
+    {
+      "id": "1a0d17e8792ec2f1710fdad3c20f0268",
+      "source": "Google News",
+      "title": "무신사, 여성복 ‘유어네임히얼’ 투자 - 패션포스트",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXotR3RnYVdmV0RXaXNVaDVtNk9WOHJ0X2pFazFROVBFaTNkVERKSWQxVWFzbkdhMVlxWlpETHQ4TzFLRWl1YURHYmJSUEp2OE9fdENSYjVmenJpUEdmRVZLcU9fM21PNl9JWTZub2xBRkFJYTJDOFh0WTNsZ083bUVjcw?oc=5",
+      "summary": "",
+      "published": "Fri, 03 Apr 2026 02:01:56 GMT",
+      "matched_targets": [
+        "무신사",
+        "무신사"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:45.812913"
+    },
+    {
+      "id": "0810e93f45f1a4e4a972c7c275c8ede9",
+      "source": "Google News",
+      "title": "닥터 리쥬올, 색소 관리 신제품 '레티노 멜라 톤 크림' 출시 - 데일리팜",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZkNfOVJNeVQ4ZkozZ29TYlRsVW1RaDNyVkpzakNaXzNqRDd4dTJfeVN2N1Ezd00td3N3ZU5UaklIcXY5VWxfTUYyemlzSnJ0?oc=5",
+      "summary": "",
+      "published": "Fri, 20 Mar 2026 08:18:17 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:46.453286"
+    },
+    {
+      "id": "cd0bdc0ce05ae5612c284a862c10b4f7",
+      "source": "Google News",
+      "title": "“AI 전환 막막하다면? 더크림유니언 AX LAB에 맡기세요” - 디지털 인사이트 DIGITAL iNSIGHT",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOLUwwdkhYS0RWN1pQWmtGQjVKTlFYaXRjT0p4X1FSVDNCV2dTelhaSzctNFdjMW11aE9fbGY5Qk40UzJQSGdTTUFrdXVva1ZnWWJQbDloY0tGSkVuZ3VOWkE5SmxFcWZlY3Noc21HOXdCVWlHdUZMOWxxanptOXRpX0pPSl9tMm16NjR5S21hQmx4LW4zVjY0RE8zekZZUVpUQjNCb0N4Q05Ob01vUW92aGVJTTZDeDdWdWlPakFSTldvYnJEUmlKVFpZSkZWenMyQkx2dnFHRldHUk43elFIbm9RQTJDaEVJMDJCaEF2Tk1OejRvbndwNkUtMElMS0F1aWZKRGNIQy03Q0xwUGJwa3JJNVFUS3g5VXJoMUxCbUtPdw?oc=5",
+      "summary": "",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [
+        "AI"
+      ],
+      "fetched_at": "2026-04-08T11:49:46.453305"
+    },
+    {
+      "id": "f660c100fdb087ebcf23c7aa94575adc",
+      "source": "Google News",
+      "title": "PDRN 뛰어든 종근당, '더마그램' PDRN크림 출시 - 히트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1aXNiRTRMT19UVTBiQVlnbm1oeGV6dlBERGtDVkhyVFlsbE12V0xBMFI2Z0UxVXF0OTVzTy1hRXNiSW9PYlFveUxZeDFMZXQ5ZUdnSFBfOHp1UFlnamdlM0lELUlMZTBhWHc?oc=5",
+      "summary": "",
+      "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:46.453316"
+    },
+    {
+      "id": "e3080e09f7ba3adcb1a1e8b85eea9ed6",
+      "source": "Google News",
+      "title": "PDRN·콜라겐·엑소좀 '한번에'…리쥬드비에 크림 출시 - 데일리팜",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9oaERCSzJvSnU0SlBHbUtVOF9GeEo2N0ZCSURPMzhIUEdNaHAtcFc5ZEM0Y01VY3lzVmVWZ1pERW5TWkZ0VVFhaHdPZVNpaWl4ZTlGRE5vcTB2QXdGVlFta1FfaHd0U3pFUGxPQjBn?oc=5",
+      "summary": "",
+      "published": "Tue, 15 Jul 2025 07:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:46.453326"
+    },
+    {
+      "id": "7ad901b0d599b80c1a2f4719a3d5bff3",
+      "source": "Google News",
+      "title": "“‘크리에이티브 몬스터’는 이렇게 만들어집니다” 더크림유니언의 ‘사람 중심’ 철학 - 디지털 인사이트 DIGITAL iNSIGHT",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1Y05BVHhveEh6VkVfaTM2SUtsbDZKSWYwSHRNang1ZmdDcHJyZ1dDaVdnU0ZVYmNfcVRrRVBVdEZYSDlzYThQREI2U0h5OXhQ?oc=5",
+      "summary": "",
+      "published": "Mon, 16 Jun 2025 07:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:46.453338"
+    },
+    {
+      "id": "169ad13636dd73b211e0dba8fc802462",
+      "source": "Google News",
+      "title": "대법원 “SK증권, ‘마유크림’ 투자손실 배상해야…손해액은 재산정” - 문화일보",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA3TUxTcllmXzVRR1hhLVFpUHA0MjRfN0h1NjFmbEt3VGpPRGlmXzFWWXJRTzFGX3RtYWN6YXFUZ2hoRVo2TUFDNks2aWpPbHRz?oc=5",
+      "summary": "",
+      "published": "Mon, 17 Nov 2025 08:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.119714"
+    },
+    {
+      "id": "b4798e470a7614affdc3877a8be9092a",
+      "source": "Google News",
+      "title": "크림, 신생 캐주얼 ‘폴리테루’에 45.5억 투자 - 어패럴뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RaDhfSVozQ29MZTZQbUo2WFhucTVFY0pwRzZtSTJmT2xGQTJtNzJOMkgydTdSdWZxNmZUd2djQ1lXQkdkVFZFOVZmTVR1Wk9RbGtDbEs3X1RVNU1fS3c2bUlZRFZZU3dMRFRlcFRjSzB2Zkwz?oc=5",
+      "summary": "",
+      "published": "Thu, 21 Aug 2025 07:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.119730"
+    },
+    {
+      "id": "f0bda6a453c6be9123141e8e2540026a",
+      "source": "Google News",
+      "title": "대법원 “SK증권, ‘마유크림 투자’ 주의의무 위반 인정…손해액은 다시 산정” - hani.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3bXNmcnphVnlrVnBCRkNIZTlIZkFDdjJYUndRZGRWejNMdU5LVTlJRkdYQW9xQkhfeXN4N1lkUG9PS0pKOC1LME1QWC01VFRpWm40U2FQdDZJSGpVdkcwSG1idEgxbHdxVnhhTExyN3ZDUQ?oc=5",
+      "summary": "",
+      "published": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.119740"
+    },
+    {
+      "id": "19ffc4fc4ccee33b4bfe79e68fdb50fc",
+      "source": "Google News",
+      "title": "크리스피 크림, 서부 합작투자 지분 80%로 확대..9천만 달러 수취 - 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1VFBRVVdBcTBYM2dJSkI5QkhRdTI4R1FUU1BxZ3lPcWZnZllTYUNkVWVoSGZMY0Vwel9BNjBwb2ZHaGhYVUxWVkVRNGNmSkNEcVE?oc=5",
+      "summary": "",
+      "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.119749"
+    },
+    {
+      "id": "dfd46f9632e86c2af04aa737b1a74209",
+      "source": "Google News",
+      "title": "대법 “SK증권 ‘마유크림 투자’ 주의의무 위반···배상액은 다시 계산” - 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IV2xsUHE0SmdaM1RKYXVyZFhGLXhhTzQ4T2F0eEJaajUwOU1VVks3Wjg4VWNnUHVpeGlrUXNoNnhsd3F3a3VuTzlWVWcyX19ONVNVY0FVYmVVQdIBX0FVX3lxTE5EdFMtR3duMGpXM0w5QzZVcjhmRzJGajU0dDBLLWtzMWo5SlZmSjVnZU45cE8wRE5qUExVVF9CYWRPbUpUZ2tLUjZfY0QwTVUzRndoa2YwdEY3Q2ZyZ1BZ?oc=5",
+      "summary": "",
+      "published": "Sun, 16 Nov 2025 08:00:00 GMT",
+      "matched_targets": [
+        "크림"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.119758"
+    },
+    {
+      "id": "9888928a8a4a87d9a5f5580644c77945",
+      "source": "Google News",
+      "title": "채널코퍼레이션, 전직군 대규모 채용…연봉 30% 인상 - 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Kd05IV0tTTHd4TkFBdUhBc3NqVkI0aXJvVDl4dmlldU8tV3pVVm55Zm5pandXUU9QUVNjSHg1RWduNVJQeUYtYnFudmVmZw?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 01:48:45 GMT",
+      "matched_targets": [
+        "채널코퍼레이션"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.739031"
+    },
+    {
+      "id": "c25ba9549c2354f0f94ea9a94ae0678a",
+      "source": "Google News",
+      "title": "채널코퍼레이션, 전직군 채용...채용되면 연봉 30%↑ - 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsRGNPU3VEcWZCdWphajYwQjFsVXlmN2FvUEx1cEJ3WWhtbXZacHBhVHJoZ3BvSXdzbzRlRGNmakFoWFQxN3Rwb2NuNVhnNWxBeFp1ZVFn?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 06:09:22 GMT",
+      "matched_targets": [
+        "채널코퍼레이션"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.739049"
+    },
+    {
+      "id": "7f0d379753a91441d7e384c2d43e4aa7",
+      "source": "Google News",
+      "title": "채널코퍼레이션, 전직군 채용 진행 - 베타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FeWx1NVcwWV95bHZqZVdUYnIzV3ZSZEVDUzlmZDdHZFg2V3hyVkpkZXVDSVUzSktKN25zZU9EOTFRclZrUXdxc1BGelIxVVMtcnBJQVFZQWFVMmpzZldHMU5XRTE?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 00:17:35 GMT",
+      "matched_targets": [
+        "채널코퍼레이션"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.739059"
+    },
+    {
+      "id": "cb337e79d6f7baedd75b56e67b0a5a35",
+      "source": "Google News",
+      "title": "채널코퍼레이션, ‘연봉인상’ 내걸고 전 직군 대규모 채용 실시 - 디스커버리뉴스(DISCOVERYNEWS)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yMjZqRDJwUUZFY054bWVEZGlGLW5iY0hhb2pNTjh0S3ZRYmRDRUZINDAyRG92cGJNVktqZm1iNS1IaFJZUjVuelJkMXRvUjJXYTlHVnJ0LUwzMEVEbDQ0TkM5MGZvaC1VTW5Nb0N4NXM1UQ?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 01:26:46 GMT",
+      "matched_targets": [
+        "채널코퍼레이션"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.739072"
+    },
+    {
+      "id": "cd443f79973b35426a2a6d6506cc4fa0",
+      "source": "Google News",
+      "title": "채널코퍼레이션, 전직군 대규모 채용 캠페인 진행 - 한스경제",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xNUpyaHhhU0t4UjNYMFc5SzZ3cDlaT1F5Z0dOWVVFTXpzU2NLMjNmT0xEcGN2WDdId25TdkJEN1pUSjUtUHJRVEVMTXJTdHZZU2pjakRaQTdfa18ya0F6bk9fS2o4QWVfcmVF0gFvQVVfeXFMTzVvY1J2ZFVIaWw1U2dBaU1UMi1zR2NRM05lNTNPV0xtcTZVV1V5TmlKS05xOVZHRFFNVVQtUkhFR2Y2SVJrZzRITXZpeVBUR0JlVW9SLWVMODhGWUtqcmRtU1ZOaXhlTlBqVk1MMy04?oc=5",
+      "summary": "",
+      "published": "Mon, 06 Apr 2026 02:50:51 GMT",
+      "matched_targets": [
+        "채널코퍼레이션"
+      ],
+      "matched_macro": [],
+      "matched_cross": [],
+      "fetched_at": "2026-04-08T11:49:47.739083"
+    }
+  ]
+}
