@@ -108,111 +108,99 @@ COMPANY_COLORS = {
 
 CUSTOM_CSS = """
 <style>
-/* 전역 폰트 */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
-/* 메트릭 카드 */
+/* 메트릭 카드 — 차분한 톤 */
 .metric-card {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 16px;
-    padding: 20px 24px;
-    color: white;
+    background: #F9FAFB;
+    border: 1px solid #E5E7EB;
+    border-radius: 12px;
+    padding: 18px 20px;
     text-align: center;
-    box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
-    transition: transform 0.2s;
 }
-.metric-card:hover { transform: translateY(-2px); }
 .metric-card .metric-value {
-    font-size: 2.2rem;
+    font-size: 2rem;
     font-weight: 700;
+    color: #111827;
     line-height: 1.2;
 }
 .metric-card .metric-label {
-    font-size: 0.85rem;
-    opacity: 0.9;
+    font-size: 0.8rem;
+    color: #6B7280;
     margin-top: 4px;
+    font-weight: 500;
 }
-
-.metric-card.blue { background: linear-gradient(135deg, #0064FF 0%, #0047B3 100%); box-shadow: 0 4px 15px rgba(0,100,255,0.3); }
-.metric-card.green { background: linear-gradient(135deg, #00C48C 0%, #00A676 100%); box-shadow: 0 4px 15px rgba(0,196,140,0.3); }
-.metric-card.orange { background: linear-gradient(135deg, #FF6B35 0%, #E24E1B 100%); box-shadow: 0 4px 15px rgba(255,107,53,0.3); }
-.metric-card.red { background: linear-gradient(135deg, #FF3478 0%, #D61C5E 100%); box-shadow: 0 4px 15px rgba(255,52,120,0.3); }
 
 /* 뉴스 카드 */
 .news-card {
-    background: #ffffff;
-    border: 1px solid #e8ecf1;
-    border-radius: 12px;
-    padding: 16px 20px;
-    margin-bottom: 10px;
-    transition: all 0.2s;
-    border-left: 4px solid #667eea;
-}
-.news-card:hover {
-    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    border-left-color: #764ba2;
-}
-.news-card .news-source {
-    font-size: 0.75rem;
-    color: #8892a4;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-.news-card .news-title {
-    font-size: 0.95rem;
-    font-weight: 600;
-    color: #1a1f36;
-    margin: 6px 0;
-    line-height: 1.4;
-}
-.news-card .news-title a { color: #1a1f36; text-decoration: none; }
-.news-card .news-title a:hover { color: #667eea; }
-.news-card .news-tags { margin-top: 8px; }
-.news-card .tag {
-    display: inline-block;
-    padding: 2px 10px;
-    border-radius: 12px;
-    font-size: 0.72rem;
-    font-weight: 600;
-    margin-right: 4px;
-    margin-bottom: 4px;
-}
-.tag-company { background: #E8F0FE; color: #1967D2; }
-.tag-macro { background: #FFF3E0; color: #E65100; }
-.tag-cross { background: #E8F5E9; color: #2E7D32; }
-
-/* 시그널 카드 */
-.signal-card {
-    border-radius: 12px;
+    background: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 10px;
     padding: 14px 18px;
     margin-bottom: 8px;
-    border-left: 4px solid;
+    border-left: 3px solid #D1D5DB;
+    transition: border-left-color 0.2s;
 }
-.signal-card.urgent { background: #FFF5F5; border-left-color: #E53E3E; }
-.signal-card.watch { background: #FFFAF0; border-left-color: #DD6B20; }
-.signal-card.info { background: #F0FFF4; border-left-color: #38A169; }
-.signal-card .signal-title {
+.news-card:hover { border-left-color: #4F46E5; }
+.news-card .news-source {
+    font-size: 0.72rem;
+    color: #9CA3AF;
     font-weight: 600;
-    font-size: 0.9rem;
-    color: #1a1f36;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
 }
-.signal-card .signal-detail {
-    font-size: 0.8rem;
-    color: #6b7280;
-    margin-top: 4px;
+.news-card .news-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #111827;
+    margin: 5px 0;
+    line-height: 1.4;
+}
+.news-card .news-title a { color: #111827; text-decoration: none; }
+.news-card .news-title a:hover { color: #4F46E5; }
+.news-card .news-tags { margin-top: 6px; }
+.news-card .tag {
+    display: inline-block;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    background: #F3F4F6;
+    color: #4B5563;
 }
 
-/* 회사 바 차트 행 */
+/* 시그널/액션 카드 */
+.signal-card {
+    border-radius: 10px;
+    padding: 12px 16px;
+    margin-bottom: 6px;
+    background: #F9FAFB;
+    border-left: 3px solid #D1D5DB;
+}
+.signal-card.urgent { border-left-color: #DC2626; }
+.signal-card.watch { border-left-color: #D97706; }
+.signal-card.info { border-left-color: #059669; }
+.signal-card .signal-title {
+    font-weight: 600;
+    font-size: 0.88rem;
+    color: #111827;
+}
+.signal-card .signal-detail {
+    font-size: 0.78rem;
+    color: #6B7280;
+    margin-top: 3px;
+}
+
+/* 회사 바 */
 .company-bar-row {
     display: flex;
     align-items: center;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     gap: 10px;
 }
 .company-bar-name {
     width: 100px;
-    font-size: 0.85rem;
+    font-size: 0.82rem;
     font-weight: 600;
     color: #374151;
     text-align: right;
@@ -220,98 +208,71 @@ CUSTOM_CSS = """
 }
 .company-bar-track {
     flex: 1;
-    height: 28px;
-    background: #f3f4f6;
-    border-radius: 6px;
+    height: 24px;
+    background: #F3F4F6;
+    border-radius: 4px;
     overflow: hidden;
 }
 .company-bar-fill {
     height: 100%;
-    border-radius: 6px;
+    border-radius: 4px;
     display: flex;
     align-items: center;
     padding-left: 10px;
-    font-size: 0.75rem;
+    font-size: 0.72rem;
     font-weight: 600;
     color: white;
-    transition: width 0.5s ease;
     min-width: fit-content;
 }
 
 /* 섹션 헤더 */
 .section-header {
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
-    color: #1a1f36;
-    margin-bottom: 16px;
-    padding-bottom: 8px;
-    border-bottom: 2px solid #667eea;
+    color: #111827;
+    margin-bottom: 14px;
+    padding-bottom: 6px;
+    border-bottom: 2px solid #E5E7EB;
     display: inline-block;
 }
 
-/* 리포트 카드 */
-.report-card {
-    background: #f8fafc;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 16px 20px;
-    margin-bottom: 10px;
-}
-.report-card .report-date {
-    font-size: 0.8rem;
-    color: #64748b;
-    font-weight: 600;
-}
-
-/* 헤더 영역 */
+/* 헤더 */
 .dashboard-header {
-    background: linear-gradient(135deg, #1a1f36 0%, #2d3561 100%);
-    border-radius: 16px;
-    padding: 28px 32px;
+    background: #111827;
+    border-radius: 12px;
+    padding: 24px 28px;
     color: white;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 .dashboard-header h1 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
     font-weight: 700;
     margin: 0;
     color: white;
 }
 .dashboard-header p {
-    font-size: 0.9rem;
-    opacity: 0.8;
-    margin: 6px 0 0 0;
+    font-size: 0.85rem;
+    opacity: 0.7;
+    margin: 4px 0 0 0;
 }
 
-/* LinkedIn 카드 */
-.li-card {
-    background: #ffffff;
-    border: 1px solid #e2e8f0;
-    border-radius: 12px;
-    padding: 16px;
-    margin-bottom: 10px;
-    border-left: 4px solid #0A66C2;
-}
-
-/* 탭 스타일 */
-.stTabs [data-baseweb="tab-list"] {
-    gap: 8px;
-}
-.stTabs [data-baseweb="tab"] {
-    border-radius: 8px 8px 0 0;
-    padding: 8px 20px;
-    font-weight: 600;
-}
-
-/* 페치 시간 뱃지 */
+/* 뱃지 */
 .fetch-badge {
     display: inline-block;
-    background: #EEF2FF;
-    color: #4338CA;
-    padding: 4px 12px;
-    border-radius: 20px;
-    font-size: 0.75rem;
+    background: rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.9);
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 500;
+}
+
+/* 탭 */
+.stTabs [data-baseweb="tab-list"] { gap: 4px; }
+.stTabs [data-baseweb="tab"] {
+    padding: 8px 20px;
     font-weight: 600;
+    font-size: 0.9rem;
 }
 </style>
 """
@@ -645,23 +606,22 @@ def analyze_signals(articles: list[dict], api_key: str) -> str:
 # ──────────────────────────────────────────────
 
 def render_metric_card(value, label, color=""):
-    color_class = f" {color}" if color else ""
     st.markdown(f"""
-    <div class="metric-card{color_class}">
+    <div class="metric-card">
         <div class="metric-value">{value}</div>
         <div class="metric-label">{label}</div>
     </div>
     """, unsafe_allow_html=True)
 
 
-def render_company_bar(name, count, max_count, color="#667eea"):
+def render_company_bar(name, count, max_count, color="#4F46E5"):
     pct = int((count / max_count) * 100) if max_count > 0 else 0
-    pct = max(pct, 8)  # 최소 바 너비
+    pct = max(pct, 8)
     st.markdown(f"""
     <div class="company-bar-row">
         <div class="company-bar-name">{name}</div>
         <div class="company-bar-track">
-            <div class="company-bar-fill" style="width:{pct}%; background:{color};">
+            <div class="company-bar-fill" style="width:{pct}%; background:#4F46E5;">
                 {count}건
             </div>
         </div>
@@ -787,15 +747,15 @@ def main():
     fetch_display = fetch_time[:16].replace("T", " ") if fetch_time else "미수집"
 
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 헤더 + 수집 버튼
+    # 헤더
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
     hdr_left, hdr_right = st.columns([4, 1])
     with hdr_left:
         st.markdown(f"""
         <div class="dashboard-header">
-            <h1>🎯 Talent Radar</h1>
+            <h1>Talent Radar</h1>
             <p>타겟 회사 뉴스 · 투자 동향 · AI 트렌드 · 인재 이동 시그널</p>
-            <div style="margin-top:12px;">
+            <div style="margin-top:10px;">
                 <span class="fetch-badge">마지막 수집: {fetch_display}</span>
             </div>
         </div>
@@ -803,11 +763,11 @@ def main():
     with hdr_right:
         st.markdown("<br><br>", unsafe_allow_html=True)
         if st.button("🔄 뉴스 수집", use_container_width=True, type="primary"):
-            progress = st.progress(0, text="뉴스 수집 준비 중...")
+            progress = st.progress(0, text="수집 준비 중...")
             rss_articles = fetch_rss_articles(target_names, progress_callback=progress.progress)
-            progress.progress(0.6, text="📡 Google News 보완 수집 중...")
+            progress.progress(0.6, text="Google News 수집 중...")
             google_articles = fetch_google_news(target_names)
-            progress.progress(0.8, text="🤖 AI 트렌드 수집 중...")
+            progress.progress(0.8, text="AI 트렌드 수집 중...")
             ai_articles = fetch_ai_trend_articles()
             all_articles = rss_articles
             seen = {a["id"] for a in all_articles}
@@ -815,24 +775,11 @@ def main():
                 if a["id"] not in seen:
                     all_articles.append(a)
                     seen.add(a["id"])
-            cache = {"fetched_at": datetime.now().isoformat(), "articles": all_articles}
-            save_news_cache(cache)
-            progress.progress(1.0, text="✅ 수집 완료!")
+            save_news_cache({"fetched_at": datetime.now().isoformat(), "articles": all_articles})
+            progress.progress(1.0, text="수집 완료!")
             st.rerun()
 
-        if api_key:
-            if st.button("🤖 리포트 생성", use_container_width=True):
-                with st.spinner("Claude 분석 중..."):
-                    try:
-                        report = generate_weekly_report(articles, targets, linkedin_data, api_key)
-                        st.session_state["generated_report"] = report
-                        st.rerun()
-                    except Exception as e:
-                        st.error(f"실패: {e}")
-
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 메트릭 카드
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    # 메트릭
     target_hits = len([a for a in articles if a.get("matched_targets")])
     macro_hits = len([a for a in articles if a.get("matched_macro")])
     ai_hits = len([a for a in articles if a.get("matched_ai_trend")])
@@ -840,272 +787,271 @@ def main():
 
     mc1, mc2, mc3, mc4, mc5 = st.columns(5)
     with mc1:
-        render_metric_card(f"{len(articles)}", "수집 기사", "blue")
+        render_metric_card(f"{len(articles)}", "수집 기사")
     with mc2:
-        render_metric_card(f"{target_hits}", "타겟 회사", "green")
+        render_metric_card(f"{target_hits}", "타겟 회사")
     with mc3:
-        render_metric_card(f"{macro_hits}", "투자/매크로", "orange")
+        render_metric_card(f"{macro_hits}", "투자/매크로")
     with mc4:
-        render_metric_card(f"{ai_hits}", "AI 트렌드", "red")
+        render_metric_card(f"{ai_hits}", "AI 트렌드")
     with mc5:
-        render_metric_card(f"{cross_hits}", "타 산업군", "")
+        render_metric_card(f"{cross_hits}", "타 산업군")
 
     if not articles:
         st.markdown("<br>", unsafe_allow_html=True)
-        st.info("📡 오른쪽 상단 '뉴스 수집' 버튼을 눌러 시작하세요.")
+        st.info("오른쪽 상단 '뉴스 수집' 버튼을 눌러 시작하세요.")
         return
 
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 🎯 이번 주 소싱 액션 (최상단)
+    # 탭 3개
     # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-header">🎯 이번 주 소싱 액션</div>', unsafe_allow_html=True)
+    tab_action, tab_news, tab_report = st.tabs(["🎯 소싱 액션", "📰 뉴스", "📝 리포트"])
 
-    macro_articles = [a for a in articles if a.get("matched_macro")]
-    target_articles = [a for a in articles if a.get("matched_targets")]
+    # ── 탭 1: 소싱 액션 ──
+    with tab_action:
+        st.markdown('<div class="section-header">이번 주 소싱 액션</div>', unsafe_allow_html=True)
 
-    # 시그널 기반 액션 카드 생성
-    urgency_kws = {"구조조정", "희망퇴직", "레이오프", "감원"}
-    growth_kws = {"투자 유치", "시리즈 B", "시리즈 C", "시리즈B", "시리즈C", "IPO", "기업공개"}
+        macro_articles = [a for a in articles if a.get("matched_macro")]
 
-    action_items = []
+        urgency_kws = {"구조조정", "희망퇴직", "레이오프", "감원"}
+        growth_kws = {"투자 유치", "시리즈 B", "시리즈 C", "시리즈B", "시리즈C", "IPO", "기업공개"}
 
-    # 구조조정/인력이동 시그널 → 긴급 소싱 기회
-    for a in macro_articles:
-        kws = set(a.get("matched_macro", []))
-        targets_in = a.get("matched_targets", [])
-        if kws & urgency_kws:
-            company = targets_in[0] if targets_in else "업계"
+        action_items = []
+
+        for a in macro_articles:
+            kws = set(a.get("matched_macro", []))
+            targets_in = a.get("matched_targets", [])
+            if kws & urgency_kws:
+                company = targets_in[0] if targets_in else "업계"
+                action_items.append({
+                    "level": "🔴", "class": "urgent",
+                    "title": f"{company} — 인력 이동 시그널",
+                    "detail": f"{a['title']} → BD/영업 인재 이탈 가능성. 선제적 커피챗 제안 권장.",
+                    "source": a["source"],
+                })
+            elif kws & growth_kws and targets_in:
+                action_items.append({
+                    "level": "🟡", "class": "watch",
+                    "title": f"{targets_in[0]} — 투자/IPO 움직임",
+                    "detail": f"{a['title']} → 공격적 채용 예상. 장기 관계 구축 추천.",
+                    "source": a["source"],
+                })
+
+        company_counts = {}
+        for t in targets:
+            count = len([a for a in articles if t["name"] in a.get("matched_targets", [])])
+            company_counts[t["name"]] = count
+
+        for name, count in sorted(company_counts.items(), key=lambda x: x[1], reverse=True):
+            if count >= 5 and not any(name in item["title"] for item in action_items):
+                action_items.append({
+                    "level": "🟡", "class": "watch",
+                    "title": f"{name} — 뉴스 {count}건 (활발한 움직임)",
+                    "detail": f"조직 변화/사업 확장 시그널 확인 필요. 핵심 인재 모니터링 강화.",
+                    "source": "뉴스 집계",
+                })
+
+        if not action_items:
             action_items.append({
-                "level": "🔴",
-                "class": "urgent",
-                "title": f"{company} — 인력 이동 시그널 감지",
-                "detail": f"{a['title']} → BD/영업 인재 이탈 가능성. 선제적 커피챗 제안 권장.",
-                "source": a["source"],
-            })
-        elif kws & growth_kws and targets_in:
-            company = targets_in[0]
-            action_items.append({
-                "level": "🟡",
-                "class": "watch",
-                "title": f"{company} — 투자/IPO 움직임",
-                "detail": f"{a['title']} → 공격적 채용 예상. 해당 회사 인재 방어력 강화 시점, 장기 관계 구축 추천.",
-                "source": a["source"],
+                "level": "🟢", "class": "info",
+                "title": "특별한 시그널 없음",
+                "detail": "이번 주기에는 긴급한 소싱 시그널이 감지되지 않았습니다. Talent Pool 관리에 집중하세요.",
+                "source": "",
             })
 
-    # 타겟 회사 뉴스량 기반 액션 (기사 5건 이상 = 주목)
-    company_counts = {}
-    for t in targets:
-        count = len([a for a in articles if t["name"] in a.get("matched_targets", [])])
-        company_counts[t["name"]] = count
+        for item in action_items[:6]:
+            source_html = f' · {item["source"]}' if item["source"] else ""
+            st.markdown(f"""
+            <div class="signal-card {item['class']}">
+                <div class="signal-title">{item['level']} {item['title']}</div>
+                <div class="signal-detail">{item['detail']}{source_html}</div>
+            </div>
+            """, unsafe_allow_html=True)
 
-    for name, count in sorted(company_counts.items(), key=lambda x: x[1], reverse=True):
-        if count >= 5 and not any(name in item["title"] for item in action_items):
-            action_items.append({
-                "level": "🟡",
-                "class": "watch",
-                "title": f"{name} — 뉴스 {count}건 (활발한 움직임)",
-                "detail": f"이번 주 {name} 관련 기사가 {count}건으로 많습니다. 조직 변화/사업 확장 시그널을 확인하고 핵심 인재 모니터링을 강화하세요.",
-                "source": "뉴스 집계",
-            })
-
-    if not action_items:
-        action_items.append({
-            "level": "🟢",
-            "class": "info",
-            "title": "특별한 시그널 없음",
-            "detail": "이번 주기에는 긴급한 소싱 시그널이 감지되지 않았습니다. 장기 Talent Pool 관리에 집중하세요.",
-            "source": "",
-        })
-
-    for item in action_items[:6]:
-        source_html = f' · {item["source"]}' if item["source"] else ""
-        st.markdown(f"""
-        <div class="signal-card {item['class']}">
-            <div class="signal-title">{item['level']} {item['title']}</div>
-            <div class="signal-detail">{item['detail']}{source_html}</div>
-        </div>
-        """, unsafe_allow_html=True)
-
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 📡 Company Radar + 🚨 시그널
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    st.markdown("<br>", unsafe_allow_html=True)
-    col_left, col_right = st.columns([3, 2])
-
-    with col_left:
-        st.markdown('<div class="section-header">📡 Company Radar</div>', unsafe_allow_html=True)
-
-        companies_with_news = {k: v for k, v in company_counts.items() if v > 0}
-        if companies_with_news:
-            sorted_companies = sorted(companies_with_news.items(), key=lambda x: x[1], reverse=True)
-            max_count = sorted_companies[0][1]
-            for name, count in sorted_companies:
-                color = COMPANY_COLORS.get(name, "#667eea")
-                render_company_bar(name, count, max_count, color)
-            no_news = [t["name"] for t in targets if t["name"] not in companies_with_news]
-            if no_news:
-                st.caption(f"뉴스 없음: {', '.join(no_news)}")
-        else:
-            st.caption("타겟 회사 관련 기사가 없습니다.")
-
-    with col_right:
-        st.markdown('<div class="section-header">🚨 투자/매크로 시그널</div>', unsafe_allow_html=True)
-        if macro_articles:
-            for a in macro_articles[:8]:
-                render_signal_card(a)
-        else:
-            st.caption("감지된 시그널이 없습니다.")
-
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 🤖 AI 트렌드
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    ai_trend_articles = [a for a in articles if a.get("matched_ai_trend")]
-    if ai_trend_articles:
+        # Company Radar + 시그널
         st.markdown("<br>", unsafe_allow_html=True)
-        st.markdown('<div class="section-header">🤖 AI 트렌드</div>', unsafe_allow_html=True)
+        col_left, col_right = st.columns([3, 2])
 
-        ai_kw_counter = Counter()
-        for a in ai_trend_articles:
-            for kw in a.get("matched_ai_trend", []):
-                ai_kw_counter[kw] += 1
-
-        if ai_kw_counter:
-            top_kws = ai_kw_counter.most_common(10)
-            kw_html = " ".join([
-                f'<span style="display:inline-block;background:#FFF5F5;color:#9B1C1C;padding:4px 12px;'
-                f'border-radius:16px;font-size:0.78rem;font-weight:600;margin:2px 3px;">'
-                f'{kw} ({cnt})</span>'
-                for kw, cnt in top_kws
-            ])
-            st.markdown(f'<div style="margin-bottom:12px;">{kw_html}</div>', unsafe_allow_html=True)
-
-        ai_cols = st.columns(2)
-        for idx, a in enumerate(ai_trend_articles[:6]):
-            with ai_cols[idx % 2]:
-                tags_html = ""
-                for kw in a.get("matched_ai_trend", [])[:3]:
-                    tags_html += f'<span class="tag" style="background:#FFF5F5;color:#9B1C1C;">{kw}</span>'
-                summary_html = ""
-                if a.get("summary"):
-                    summary_html = f'<div style="font-size:0.8rem;color:#6b7280;margin-top:6px;">{a["summary"][:120]}...</div>'
-                st.markdown(f"""
-                <div class="news-card" style="border-left-color:#E53E3E;">
-                    <div class="news-source">{a['source']}</div>
-                    <div class="news-title"><a href="{a['link']}" target="_blank">{a['title']}</a></div>
-                    {summary_html}
-                    <div class="news-tags">{tags_html}</div>
-                </div>
-                """, unsafe_allow_html=True)
-
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 📰 전체 뉴스 (필터)
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-header">📰 전체 뉴스</div>', unsafe_allow_html=True)
-
-    col_f1, col_f2, col_f3 = st.columns(3)
-    with col_f1:
-        filter_type = st.multiselect(
-            "카테고리",
-            ["타겟 회사", "투자/매크로", "타 산업군", "AI 트렌드"],
-            default=["타겟 회사", "투자/매크로"],
-        )
-    with col_f2:
-        filter_company = st.multiselect("회사 필터", target_names)
-    with col_f3:
-        filter_source = st.multiselect("출처 필터", list(set(a["source"] for a in articles)))
-
-    filtered = []
-    for a in articles:
-        match = False
-        if "타겟 회사" in filter_type and a.get("matched_targets"):
-            match = True
-        if "투자/매크로" in filter_type and a.get("matched_macro"):
-            match = True
-        if "타 산업군" in filter_type and a.get("matched_cross"):
-            match = True
-        if "AI 트렌드" in filter_type and a.get("matched_ai_trend"):
-            match = True
-        if not match:
-            continue
-        if filter_company and not any(c in a.get("matched_targets", []) for c in filter_company):
-            continue
-        if filter_source and a["source"] not in filter_source:
-            continue
-        filtered.append(a)
-
-    st.caption(f"총 {len(filtered)}건")
-
-    news_cols = st.columns(2)
-    for idx, a in enumerate(filtered[:30]):
-        with news_cols[idx % 2]:
-            render_news_card(a)
-
-    if len(filtered) > 30:
-        st.caption(f"... 외 {len(filtered) - 30}건")
-
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 🏢 회사별 상세 (접기)
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-header">🏢 회사별 상세</div>', unsafe_allow_html=True)
-
-    for t in targets:
-        company_articles = [a for a in articles if t["name"] in a.get("matched_targets", [])]
-        count = len(company_articles)
-        indicator = "⚪" if count == 0 else ("🟢" if count <= 2 else ("🟡" if count <= 5 else "🔴"))
-
-        with st.expander(f"{indicator} {t['name']} ({t.get('industry', '')}) — {count}건", expanded=False):
-            if company_articles:
-                for a in company_articles[:8]:
-                    render_news_card(a)
+        with col_left:
+            st.markdown('<div class="section-header">Company Radar</div>', unsafe_allow_html=True)
+            companies_with_news = {k: v for k, v in company_counts.items() if v > 0}
+            if companies_with_news:
+                sorted_companies = sorted(companies_with_news.items(), key=lambda x: x[1], reverse=True)
+                max_count = sorted_companies[0][1]
+                for name, count in sorted_companies:
+                    render_company_bar(name, count, max_count)
+                no_news = [t["name"] for t in targets if t["name"] not in companies_with_news]
+                if no_news:
+                    st.caption(f"뉴스 없음: {', '.join(no_news)}")
             else:
-                st.caption("관련 기사 없음")
+                st.caption("타겟 회사 관련 기사가 없습니다.")
 
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    # 📝 리포트
-    # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    st.markdown("<br>", unsafe_allow_html=True)
-    st.markdown('<div class="section-header">📝 주간 리포트</div>', unsafe_allow_html=True)
+        with col_right:
+            st.markdown('<div class="section-header">투자/매크로 시그널</div>', unsafe_allow_html=True)
+            if macro_articles:
+                for a in macro_articles[:8]:
+                    render_signal_card(a)
+            else:
+                st.caption("감지된 시그널이 없습니다.")
 
-    # 생성된 리포트 표시
-    if "generated_report" in st.session_state:
-        st.markdown(st.session_state["generated_report"])
-        st.download_button(
-            "📥 리포트 다운로드",
-            data=st.session_state["generated_report"],
-            file_name=f"talent_radar_{datetime.now().strftime('%Y%m%d')}.md",
-            mime="text/markdown",
-        )
-        if st.button("리포트 닫기"):
-            del st.session_state["generated_report"]
-            st.rerun()
-    else:
-        if not api_key:
-            st.caption("사이드바에서 API Key를 입력하면 AI 리포트를 생성할 수 있습니다.")
+    # ── 탭 2: 뉴스 ──
+    with tab_news:
+        # AI 트렌드
+        ai_trend_articles = [a for a in articles if a.get("matched_ai_trend")]
+        if ai_trend_articles:
+            st.markdown('<div class="section-header">AI 트렌드</div>', unsafe_allow_html=True)
 
-    # 과거 리포트
-    report_files = sorted(REPORTS_DIR.glob("report_*.md"), reverse=True)
-    if report_files:
+            ai_kw_counter = Counter()
+            for a in ai_trend_articles:
+                for kw in a.get("matched_ai_trend", []):
+                    ai_kw_counter[kw] += 1
+
+            if ai_kw_counter:
+                top_kws = ai_kw_counter.most_common(10)
+                kw_html = " ".join([
+                    f'<span style="display:inline-block;background:#F3F4F6;color:#374151;padding:3px 10px;'
+                    f'border-radius:4px;font-size:0.75rem;font-weight:500;margin:2px 2px;">'
+                    f'{kw} ({cnt})</span>'
+                    for kw, cnt in top_kws
+                ])
+                st.markdown(f'<div style="margin-bottom:12px;">{kw_html}</div>', unsafe_allow_html=True)
+
+            ai_cols = st.columns(2)
+            for idx, a in enumerate(ai_trend_articles[:6]):
+                with ai_cols[idx % 2]:
+                    render_news_card(a)
+
+            st.markdown("<br>", unsafe_allow_html=True)
+
+        # 전체 뉴스 필터
+        st.markdown('<div class="section-header">전체 뉴스</div>', unsafe_allow_html=True)
+
+        col_f1, col_f2, col_f3 = st.columns(3)
+        with col_f1:
+            filter_type = st.multiselect(
+                "카테고리",
+                ["타겟 회사", "투자/매크로", "타 산업군", "AI 트렌드"],
+                default=["타겟 회사", "투자/매크로"],
+            )
+        with col_f2:
+            filter_company = st.multiselect("회사", target_names)
+        with col_f3:
+            filter_source = st.multiselect("출처", list(set(a["source"] for a in articles)))
+
+        filtered = []
+        for a in articles:
+            match = False
+            if "타겟 회사" in filter_type and a.get("matched_targets"):
+                match = True
+            if "투자/매크로" in filter_type and a.get("matched_macro"):
+                match = True
+            if "타 산업군" in filter_type and a.get("matched_cross"):
+                match = True
+            if "AI 트렌드" in filter_type and a.get("matched_ai_trend"):
+                match = True
+            if not match:
+                continue
+            if filter_company and not any(c in a.get("matched_targets", []) for c in filter_company):
+                continue
+            if filter_source and a["source"] not in filter_source:
+                continue
+            filtered.append(a)
+
+        st.caption(f"총 {len(filtered)}건")
+
+        news_cols = st.columns(2)
+        for idx, a in enumerate(filtered[:30]):
+            with news_cols[idx % 2]:
+                render_news_card(a)
+        if len(filtered) > 30:
+            st.caption(f"... 외 {len(filtered) - 30}건")
+
+        # 회사별 상세
         st.markdown("<br>", unsafe_allow_html=True)
-        st.caption("과거 리포트")
-        for rf in report_files:
-            name = rf.stem.replace("report_", "")
-            try:
-                dt = datetime.strptime(name, "%Y%m%d_%H%M%S")
-                display_date = dt.strftime("%Y년 %m월 %d일 %H:%M")
-            except ValueError:
-                try:
-                    dt = datetime.strptime(name, "%Y%m%d")
-                    display_date = dt.strftime("%Y년 %m월 %d일")
-                except ValueError:
-                    display_date = name
+        st.markdown('<div class="section-header">회사별 상세</div>', unsafe_allow_html=True)
 
-            with st.expander(f"📄 {display_date}"):
-                content = rf.read_text(encoding="utf-8")
-                st.markdown(content)
-                st.download_button("📥 다운로드", data=content, file_name=rf.name, mime="text/markdown", key=f"dl_{rf.name}")
+        for t in targets:
+            company_articles = [a for a in articles if t["name"] in a.get("matched_targets", [])]
+            count = len(company_articles)
+            with st.expander(f"{t['name']} ({t.get('industry', '')}) — {count}건", expanded=False):
+                if company_articles:
+                    for a in company_articles[:8]:
+                        render_news_card(a)
+                else:
+                    st.caption("관련 기사 없음")
+
+    # ── 탭 3: 리포트 ──
+    with tab_report:
+        st.markdown('<div class="section-header">주간 리포트</div>', unsafe_allow_html=True)
+
+        if not api_key:
+            st.info("사이드바(왼쪽 상단 >) 에서 API Key를 입력하면 AI 리포트를 생성할 수 있습니다.")
+        else:
+            st.markdown(f"""
+            <div style="background:#F9FAFB;border:1px solid #E5E7EB;border-radius:10px;padding:14px 18px;margin-bottom:14px;">
+                <span style="font-size:0.85rem;color:#374151;">
+                    📰 기사 <strong>{len(articles)}</strong>건 · 🏢 타겟 <strong>{len(targets)}</strong>개사
+                </span>
+            </div>
+            """, unsafe_allow_html=True)
+
+            col_r1, col_r2 = st.columns(2)
+            with col_r1:
+                if st.button("주간 리포트 생성", use_container_width=True, type="primary"):
+                    with st.spinner("Claude가 리포트를 작성하고 있습니다..."):
+                        try:
+                            report = generate_weekly_report(articles, targets, linkedin_data, api_key)
+                            st.session_state["generated_report"] = report
+                            st.rerun()
+                        except Exception as e:
+                            st.error(f"생성 실패: {e}")
+            with col_r2:
+                if st.button("시그널 분석", use_container_width=True):
+                    with st.spinner("시그널 분석 중..."):
+                        try:
+                            signal = analyze_signals(articles, api_key)
+                            st.session_state["generated_report"] = signal
+                            st.rerun()
+                        except Exception as e:
+                            st.error(f"분석 실패: {e}")
+
+        if "generated_report" in st.session_state:
+            st.divider()
+            st.markdown(st.session_state["generated_report"])
+            col_dl, col_close = st.columns(2)
+            with col_dl:
+                st.download_button(
+                    "다운로드",
+                    data=st.session_state["generated_report"],
+                    file_name=f"talent_radar_{datetime.now().strftime('%Y%m%d')}.md",
+                    mime="text/markdown",
+                    use_container_width=True,
+                )
+            with col_close:
+                if st.button("닫기", use_container_width=True):
+                    del st.session_state["generated_report"]
+                    st.rerun()
+
+        # 과거 리포트
+        report_files = sorted(REPORTS_DIR.glob("report_*.md"), reverse=True)
+        if report_files:
+            st.divider()
+            st.caption("과거 리포트")
+            for rf in report_files:
+                name = rf.stem.replace("report_", "")
+                try:
+                    dt = datetime.strptime(name, "%Y%m%d_%H%M%S")
+                    display_date = dt.strftime("%Y년 %m월 %d일 %H:%M")
+                except ValueError:
+                    try:
+                        dt = datetime.strptime(name, "%Y%m%d")
+                        display_date = dt.strftime("%Y년 %m월 %d일")
+                    except ValueError:
+                        display_date = name
+                with st.expander(f"{display_date}"):
+                    content = rf.read_text(encoding="utf-8")
+                    st.markdown(content)
+                    st.download_button("다운로드", data=content, file_name=rf.name, mime="text/markdown", key=f"dl_{rf.name}")
 
 
 if __name__ == "__main__":
