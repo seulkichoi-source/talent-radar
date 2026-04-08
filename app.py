@@ -828,6 +828,7 @@ def main():
                     "title": f"{company} — 인력 이동 시그널",
                     "detail": f"{a['title']} → BD/영업 인재 이탈 가능성. 선제적 커피챗 제안 권장.",
                     "source": a["source"],
+                    "link": a.get("link", ""),
                 })
             elif kws & growth_kws and targets_in:
                 action_items.append({
@@ -835,6 +836,7 @@ def main():
                     "title": f"{targets_in[0]} — 투자/IPO 움직임",
                     "detail": f"{a['title']} → 공격적 채용 예상. 장기 관계 구축 추천.",
                     "source": a["source"],
+                    "link": a.get("link", ""),
                 })
 
         company_counts = {}
@@ -844,11 +846,14 @@ def main():
 
         for name, count in sorted(company_counts.items(), key=lambda x: x[1], reverse=True):
             if count >= 5 and not any(name in item["title"] for item in action_items):
+                # 해당 회사의 첫 번째 기사 링크
+                first_article = next((a for a in articles if name in a.get("matched_targets", [])), None)
                 action_items.append({
                     "level": "🟡", "class": "watch",
                     "title": f"{name} — 뉴스 {count}건 (활발한 움직임)",
                     "detail": f"조직 변화/사업 확장 시그널 확인 필요. 핵심 인재 모니터링 강화.",
                     "source": "뉴스 집계",
+                    "link": first_article.get("link", "") if first_article else "",
                 })
 
         if not action_items:
@@ -857,14 +862,20 @@ def main():
                 "title": "특별한 시그널 없음",
                 "detail": "이번 주기에는 긴급한 소싱 시그널이 감지되지 않았습니다. Talent Pool 관리에 집중하세요.",
                 "source": "",
+                "link": "",
             })
 
         for item in action_items[:6]:
             source_html = f' · {item["source"]}' if item["source"] else ""
+            link = item.get("link", "")
+            if link:
+                link_html = f' · <a href="{link}" target="_blank" style="color:#4F46E5;text-decoration:none;font-size:0.78rem;">기사 보기 →</a>'
+            else:
+                link_html = ""
             st.markdown(f"""
             <div class="signal-card {item['class']}">
                 <div class="signal-title">{item['level']} {item['title']}</div>
-                <div class="signal-detail">{item['detail']}{source_html}</div>
+                <div class="signal-detail">{item['detail']}{source_html}{link_html}</div>
             </div>
             """, unsafe_allow_html=True)
 
